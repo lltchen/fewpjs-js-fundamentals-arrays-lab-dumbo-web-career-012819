@@ -1,4 +1,4 @@
-function () { append = []; }
-function () { prepend = []; }
-function () { removeLast = []; }
-function () { removeFirst = []; }
+ append = []; 
+prepend = []; 
+removeLast = []; 
+removeFirst = []; 
