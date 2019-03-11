@@ -1,1 +1,1 @@
-const append = function(){}
+const append = ["Milo", "Otis", "Garfield"]
