@@ -3,5 +3,6 @@ const prepend = ["Milo", "Otis", "Garfield"];
 const removeLast = ["Milo", "Otis", "Garfield"];
 const removeFirst = ["Milo", "Otis", "Garfield"];
 
-append.append("Odie")
-prepend
+append.push("Odie")
+prepend.shift("Odie")
+removeLast.upshift("Odie")
